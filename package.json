@@ -14,6 +14,6 @@
         "sonar": "sonar-scanner -Dsonar.login=${SONAR_LOGIN} -Dproject.settings=.sonar/sonar-project.properties"
     },
     "dependencies": {
-        "terser": "^4.6.3"
+        "terser": "^4.8.1"
     }
 }
